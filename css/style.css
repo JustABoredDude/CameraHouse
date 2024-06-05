@@ -574,7 +574,7 @@ nav.main-menu {
 }
 
 #products .fe-box{
-    width: 300px;
+    width: 375px;
     text-align: center;
     padding: 25px 15px;
     box-shadow: 10px 10px 10px #242323;
@@ -1021,8 +1021,6 @@ nav.main-menu {
     cursor: pointer;
 }
 
-/*------------------------------ vertical bootstrap slider----------------------------*/
-
 .banner_section .carousel-inner> .carousel-item.carousel-item-next ,
 .banner_section .carousel-inner > .carousel-item.active.carousel-item-right{ 
     transform: translate3d(0, 100%, 0); -webkit-transform: translate3d(0, 100%, 0); -ms-transform: translate3d(0, 100%, 0); -moz-transform: translate3d(0, 100%, 0); -o-transform: translate3d(0, 100%, 0);  top: 0;
@@ -1040,7 +1038,6 @@ nav.main-menu {
     
 }
 
-/*------------------------------- vertical carousel indicators ------------------------------*/
 .carousel-indicators{
     position:absolute;
     top:0;
